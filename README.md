@@ -19,8 +19,10 @@ I would love to expand this game and add more genres. To contribute a new genre,
 
 4. Just above the comment ```# Add more elif statements here``` add the following two lines:
 
-```elif choice == "n"```
-```		return csvFileName```
+```
+elif choice == "n"
+	return csvFileName
+```	
 
 Replace ```n``` with the same serial number you gave above and ```csvFileName``` with the exact name that the .csv file was saved with. No need to add the extension as well.
 
