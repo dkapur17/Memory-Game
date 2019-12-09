@@ -21,7 +21,7 @@ I would love to expand this game and add more genres. To contribute a new genre,
 
 ```
 elif choice == "n"
-	return csvFileName
+	return "csvFileName"
 ```	
 
 Replace ```n``` with the same serial number you gave above and ```csvFileName``` with the exact name that the .csv file was saved with. No need to add the extension as well.
