@@ -37,7 +37,7 @@ def chooseGenre(beenHere):
 		return "countries"
 	# Add more elif statements here	
 	else:
-		chooseGenre(True)	
+		 return chooseGenre(True)	
 
 
 # Function for a new game
